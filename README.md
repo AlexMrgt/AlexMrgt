@@ -31,4 +31,4 @@
 
 
 ## Со мной можно связаться:
-📫 Почта: alexandrkukarskih.gmail.com
+📫 Почта: alexandrkukarskih@gmail.com
