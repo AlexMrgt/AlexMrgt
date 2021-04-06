@@ -10,7 +10,7 @@
 
 ## Мой стек
 
-HTML/CSS, JavaScript(ES6+), React.js 
+HTML/CSS, JavaScript(ES6+), React.js, express.js. 
 
 
 ## На данный момент я совершенствую навыки на нескольких проектах:
