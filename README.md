@@ -9,13 +9,14 @@
   - Также я делаю все, чтобы интерфейсы получались понятными и доступными для пользовательского опыта.
 
 ## Мой стек
++ React
++ JavaScript(ES6+)
++ HTML5
++ CSS3
++ Express
 
-HTML/CSS, JavaScript(ES6+), React.js, express.js. 
 
-
-## На данный момент я совершенствую навыки на нескольких проектах:
-
-- [Mesto](https://github.com/AlexMrgt/express-mesto) - бэкэнд сайта Mesto.Russia на express.js. Проект содержит регистрацию/авторизацию пользователя, валидацию данных, генерацию токена, создание и редактирование данных пользователя, создание и редактирование карточек с фотографиями.
+## На данный момент я совершенствую навыки в следующих проектах:
 
 - [MRGT.Recepies](https://alexmrgt.github.io/Resepies/) - фронтенд на ванильном JS для сайта с рецептами ( в будущем будет переписан на React.js и также будет написан бэкэнд )   
 
@@ -23,16 +24,20 @@ HTML/CSS, JavaScript(ES6+), React.js, express.js.
 
 ### React.js
 
-- Mesto - фронтенд проекта Mesto.Russia написанный с применением библиотеки React.js
+[Mesto.Russia-фронтенд](https://github.com/AlexMrgt/react-mesto-auth) - фронтенд проекта Mesto.Russia написанный с применением библиотеки React.js
 
 ### JavaScript
 
-- [Mesto](https://alexmrgt.github.io/mesto/) - вариация фронта проекта Mesto.Russia на ванильном ES6 JavaScript с применением ES6 классов.
+- [Mesto](https://github.com/AlexMrgt/mesto) - вариация фронта проекта Mesto.Russia на ванильном ES6 JavaScript с применением ES6 классов.
+
+### Express.js
+
+- [Mesto.Russia-бэкэнд](https://github.com/AlexMrgt/express-mesto) - бэкэнд проекта Mesto.Russia написанный на express.js
 
 ### HTML/CSS
 
-- [Russian Travel](https://alexmrgt.github.io/russian-travel/) - небольшой сайт о путешествиях по России.
-- How to learn - небольшой сайт о современных и эффективных подходах к обучению.
+- [Russian Travel](https://github.com/AlexMrgt/russian-travel) - небольшой сайт о путешествиях по России.
+- [How to learn](https://github.com/AlexMrgt/how-to-learn) - небольшой сайт о современных и эффективных подходах к обучению.
 
 
 ## Со мной можно связаться:
