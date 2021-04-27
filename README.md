@@ -29,7 +29,7 @@
 ### Express.js
 
 - [Mesto.Russia-бэкэнд](https://github.com/AlexMrgt/express-mesto) - бэкэнд проекта Mesto.Russia написанный на express.js
-- 
+
 ### JavaScript
 
 - [Mesto](https://github.com/AlexMrgt/mesto) - вариация фронта проекта Mesto.Russia на ванильном ES6 JavaScript с применением ES6 классов.
