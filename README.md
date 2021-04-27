@@ -41,5 +41,5 @@
 
 
 ## Со мной можно связаться:
-📫 Почта: alexandrkukarskih@gmail.com
-Telegram : https://t.me/AlexMRGT
++ 📫 Почта: alexandrkukarskih@gmail.com
++ Telegram : https://t.me/AlexMRGT
