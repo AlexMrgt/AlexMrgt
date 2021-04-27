@@ -25,7 +25,7 @@
 ### React.js
 
 - [Mesto.Russia-фронтенд](https://github.com/AlexMrgt/react-mesto-auth) - фронтенд проекта Mesto.Russia написанный с применением библиотеки React.js
-- 
+
 ### Express.js
 
 - [Mesto.Russia-бэкэнд](https://github.com/AlexMrgt/express-mesto) - бэкэнд проекта Mesto.Russia написанный на express.js
