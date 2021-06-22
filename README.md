@@ -22,6 +22,10 @@
 
 ## Завершенные проекты:
 
+### React.js + Redux + Redux-toolkit
+
+- [Mesto.Russia](https://github.com/AlexMrgt/mesto-react-redux-toolkit)
+
 ### React.js
 
 - [Movies=explorer](https://github.com/AlexMrgt/movies-explorer-frontend) - фронтенд проекта Movies-explorer на React.js
