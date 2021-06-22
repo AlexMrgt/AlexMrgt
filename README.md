@@ -29,7 +29,7 @@
 
 ### React.js
 
-- [Movies=explorer](https://github.com/AlexMrgt/movies-explorer-frontend) - фронтенд проекта Movies-explorer на React.js
+- [Movies-explorer](https://github.com/AlexMrgt/movies-explorer-frontend) - фронтенд проекта Movies-explorer на React.js
 - [Mesto.Russia-фронтенд](https://github.com/AlexMrgt/react-mesto-auth) - фронтенд проекта Mesto.Russia написанный с применением библиотеки React.js
 
 ### Express.js
