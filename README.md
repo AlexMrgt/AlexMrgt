@@ -10,6 +10,7 @@
 
 ## Мой стек
 + React
++ Redux
 + JavaScript(ES6+)
 + HTML5
 + CSS3
