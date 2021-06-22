@@ -24,7 +24,7 @@
 
 ### React.js + Redux + Redux-toolkit
 
-- [Mesto.Russia](https://github.com/AlexMrgt/mesto-react-redux-toolkit)
+- [Mesto.Russia](https://github.com/AlexMrgt/mesto-react-redux-toolkit) - рефактор фронтенда проекта Mesto.Russia под Redux
 
 ### React.js
 
