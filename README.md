@@ -11,7 +11,7 @@
 ## Мой стек
 + React
 + Redux
-+ JavaScript(ES6+)
++ JavaScript(ES6+) + TypeScript
 + HTML5
 + CSS3
 + Express
