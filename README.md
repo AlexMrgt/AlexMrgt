@@ -18,7 +18,7 @@
 
 
 ## На данный момент я совершенствую навыки в следующих проектах:
-- [Ideco data table](https://github.com/AlexMrgt/ideco_test_task/tree/dev) - фронтенд на React/Redux/Formik/MaterialUI для тестового задания
+- [Ideco data table](https://github.com/AlexMrgt/ideco_test_task/tree/dev) - фронтенд на TypeScript/React/Redux/Formik/MaterialUI для тестового задания
 - [MRGT.Recepies](https://alexmrgt.github.io/Resepies/) - фронтенд на ванильном JS для сайта с рецептами ( в будущем будет переписан на React.js и также будет написан бэкэнд )   
 
 ## Завершенные проекты:
