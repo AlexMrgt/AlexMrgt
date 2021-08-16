@@ -10,7 +10,7 @@
 
 ## Мой стек
 + React
-+ Redux
++ Redux/Thunk/Toolkit
 + JavaScript(ES6+) + TypeScript
 + Formik + Yup
 + HTML5
