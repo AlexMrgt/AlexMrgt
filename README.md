@@ -22,7 +22,7 @@
 
 ### TypeScript + Redux + Redux-toolkit
 
--[Forecast-service](https://github.com/AlexMrgt/Forecast-Service) - фронтенд приложения с погодными прогнозами с подключеным апи 
+- [Forecast-service](https://github.com/AlexMrgt/Forecast-Service) - фронтенд приложения с погодными прогнозами с подключеным апи 
 
 ### React.js + Redux + Redux-toolkit
 
