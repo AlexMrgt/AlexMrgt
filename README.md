@@ -12,6 +12,7 @@
 + React
 + Redux
 + JavaScript(ES6+) + TypeScript
++ Formik + Yup
 + HTML5
 + CSS3
 + Express
