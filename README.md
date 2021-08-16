@@ -20,6 +20,10 @@
 
 ## Завершенные проекты:
 
+### TypeScript + Redux + Redux-toolkit
+
+-[Forecast-service](https://github.com/AlexMrgt/Forecast-Service) - фронтенд приложения с погодными прогнозами с подключеным апи 
+
 ### React.js + Redux + Redux-toolkit
 
 - [Mesto.Russia](https://github.com/AlexMrgt/mesto-react-redux-toolkit) - рефактор фронтенда проекта Mesto.Russia под Redux
