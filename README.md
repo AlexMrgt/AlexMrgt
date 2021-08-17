@@ -49,5 +49,5 @@
 
 
 ## Со мной можно связаться:
-+ 📫 Почта: alexandrkukarskih@gmail.com
++ 📫 Почта: mrgt.work@yandex.ru
 + Telegram : https://t.me/AlexMRGT
