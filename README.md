@@ -21,11 +21,15 @@
 
 ## Завершенные проекты:
 
-### TypeScript + Redux + Redux-toolkit
+### TypeScript + Redux/Saga
+
+- [Flights-service](https://github.com/AlexMrgt/flight-searcher) - фронтенд приложения для поиска авиабилетов 
+
+### TypeScript + Redux + Redux/Thunk
 
 - [Forecast-service](https://github.com/AlexMrgt/Forecast-Service) - фронтенд приложения с погодными прогнозами с подключеным апи 
 
-### React.js + Redux + Redux-toolkit
+### React.js + Redux/Thunk
 
 - [Mesto.Russia](https://github.com/AlexMrgt/mesto-react-redux-toolkit) - рефактор фронтенда проекта Mesto.Russia под Redux
 
